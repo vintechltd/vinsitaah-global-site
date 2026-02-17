@@ -1649,22 +1649,9 @@ section,
   color: var(--accent-color);
 }
 
-.copyright,
-.copyright p,
-.copyright span,
-.copyright strong,
-.copyright .credits {
-  color: #000000 !important;
-}
-.copyright p {
-  font-size: 18px;   /* increase size */
-  font-weight: 500;  /* slightly bold */
-}
-
-.copyright .credits {
-  font-size: 16px;
-}
-
+/*--------------------------------------------------------------
+# Starter Section Section
+--------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
 }
